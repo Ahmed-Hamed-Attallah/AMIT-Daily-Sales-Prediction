@@ -1,0 +1,29 @@
+### Task Description: Sales Forecasting Model
+
+You are provided with a sales dataset to work on.
+
+**Objective:**
+Build a machine learning model to forecast sales based on available features in the dataset.
+
+**Requirements:**
+
+* Explore and analyze the dataset thoroughly.
+* Select the most relevant features for sales forecasting.
+* You are **not required** to use all features:
+
+  * Remove irrelevant or noisy features.
+  * Modify or engineer features if needed.
+* Justify your feature selection decisions.
+* Train, evaluate, and optimize your forecasting model.
+* Aim to achieve the **highest possible model performance**.
+
+**Evaluation Criteria:**
+
+* Model accuracy and robustness.
+* Quality of feature selection and preprocessing.
+* Soundness of modeling approach.
+* Clear explanation of decisions and results.
+
+**Goal:**
+Identify who can build the **strongest and most accurate sales forecasting model**.
+
